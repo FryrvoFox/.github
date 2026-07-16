@@ -12,10 +12,10 @@
 
 
 >Organization's
->- [index](https://github.com/FryrvoFox)
->- [Archive](https://github.com/fryrvoarchive)
->- [FryrvoMusic](https://github.com/FryrvoMusic)
->- [Modwinth](https://github.com/Modwinth)
+>- [index](https://github.com/FryrvoFox) 
+>- [Archive](https://github.com/fryrvoarchive) 
+>- [FryrvoMusic](https://github.com/FryrvoMusic) 
+>- [Modwinth](https://github.com/Modwinth) 
 >
 >
 > alters aka Headmate
