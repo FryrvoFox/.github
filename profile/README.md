@@ -26,6 +26,9 @@
 >
 >Link (that i don't have icon so i can't put up there)
 >- [SoundCloud](https://soundcloud.com/fryrvo)
->-
->-
-> i did not active on any social media i just there to claim my username ... i mainly active here on github
+
+
+
+> We did not active on any social media We just there to claim my username ...
+> <br>
+> mainly active here on github doing usuless stuff
