@@ -24,5 +24,7 @@
 >- [Fosh](https://github.com/fryrofox)
 >
 >
->Link
->- [Discord](https://discord.fryrvo.com)
+>Link (that i don't have icon so i can't put up there)
+>- [SoundCloud](https://soundcloud.com/fryrvo)
+>-
+>-
