@@ -13,7 +13,7 @@
 <a href="https://github.com/fryrvo">       <img src="https://raw.githubusercontent.com/Fryrvo/Library/main/asset/Divider.png" alt="Discord" style="margin: 5px 10px;"></a>      
 
 >Organization's
->- [index](https://github.com/FryrvoFox) 
+>- [Portal](https://github.com/FryrvoFox) 
 >- [Archive](https://github.com/fryrvoarchive) 
 >- [FryrvoMusic](https://github.com/FryrvoMusic) 
 >- [Modwinth](https://github.com/Modwinth) 
