@@ -32,6 +32,6 @@
 
 
 
-> We did not active on any social media We just there to claim my username ...
+> We did not active on any social media We just there to claim username ...
 > <br>
 > mainly active here on github doing usuless stuff
