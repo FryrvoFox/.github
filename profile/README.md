@@ -25,6 +25,7 @@
 >- [Fosh Fox](https://github.com/Foshfox)
 >- [Fyivy Fox](https://github.com/fyivy)
 >- [Chane](https://github.com/Chane-ee)
+>- Fyinn 
 >
 >
 >Link (that i don't have icon so i can't put up there)
