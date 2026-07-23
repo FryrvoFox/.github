@@ -22,10 +22,10 @@
 >
 > alters Meember
 >- [Fryrvo Fox](https://github.com/fryrvo)
->- [Fosh Fox](https://github.com/Foshfox)
->- [Fyivy Fox](https://github.com/fyivy)
->- [Chane](https://github.com/Chane-ee)
+>- Fosh Fox
+>- Fyivy Fox
 >- Fyinn 
+>- Chane
 >
 >
 >Link (that i don't have icon so i can't put up there)
